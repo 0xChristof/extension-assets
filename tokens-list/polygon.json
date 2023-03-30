@@ -4,7 +4,8 @@
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "MATIC",
     "decimals": 18,
-    "chainId": 137
+    "chainId": 137,
+    "logoURI": "https://cdn.iconscout.com/icon/free/png-512/polygon-token-4086724-3379854.png?f=avif&w=256"
   },
   {
     "name": "Aave",
