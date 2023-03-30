@@ -1,5 +1,13 @@
 [
   {
+    "name": "Ethereum",
+    "chainId": 1,
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/ethereum.png",
+    "address": "0x0000000000000000000000000000000000000000"
+  },
+  {
     "address": "0x111111111117dC0aa78b770fA6A738034120C302",
     "chainId": 1,
     "name": "1inch Exchange",

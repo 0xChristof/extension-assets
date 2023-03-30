@@ -1,5 +1,13 @@
 [
   {
+    "name": "BNB",
+    "symbol": "BNB",
+    "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg"
+  },
+  {
     "name": "Bakery Token",
     "symbol": "BAKE",
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",

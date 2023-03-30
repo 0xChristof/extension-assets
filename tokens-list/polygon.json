@@ -1,5 +1,12 @@
 [
   {
+    "name": "Matic",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "chainId": 137
+  },
+  {
     "name": "Aave",
     "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
     "symbol": "AAVE",
