@@ -53,7 +53,7 @@
     "symbol": "BAT",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bat.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x3Cef98bb43d732E2F285eE605a8158cDE967D219/logo.png"
   },
   {
     "name": "Beefy.finance",
@@ -109,7 +109,7 @@
     "name": "Celsius",
     "symbol": "CEL",
     "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6/logo.png"
   },
   {
     "name": "ChumHum",
@@ -149,7 +149,7 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
   },
   {
     "name": "Dai Stablecoin",
@@ -157,7 +157,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
   },
   {
     "name": "DEGEN Index",
@@ -285,7 +285,7 @@
     "symbol": "GRT",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x5fe2B58c013d7601147DcdD68C143A77499f5531/logo.png"
   },
   {
     "address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
@@ -333,7 +333,7 @@
     "symbol": "KRILL",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/krill.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b/logo.png"
   },
   {
     "name": "ChainLink Token",
@@ -341,7 +341,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
   },
   {
     "address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
@@ -365,7 +365,7 @@
     "symbol": "MKR",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6f7C932e7684666C9fd1d44527765433e01fF61d/logo.png"
   },
   {
     "address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
@@ -453,7 +453,7 @@
     "symbol": "PolyDoge",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x8A953CfE442c5E8855cc6c61b1293FA648BAE472/logo.png"
   },
   {
     "name": "Qi Dao",
@@ -469,7 +469,7 @@
     "symbol": "RCN",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rcn.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x89C296Be2F904F3e99a6125815b4B78F5388d2dd/logo.png"
   },
   {
     "name": "Router Protocol",
@@ -485,7 +485,7 @@
     "symbol": "SNX",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x50B728D8D964fd00C2d0AAD81718b71311feF68a/logo.png"
   },
   {
     "address": "0xf5EA626334037a2cf0155D49eA6462fDdC6Eff19",
@@ -501,7 +501,7 @@
     "symbol": "SAND",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683/logo.png"
   },
   {
     "name": "SushiToken",
@@ -509,7 +509,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a/logo.png"
   },
   {
     "name": "SportX",
@@ -557,7 +557,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png"
   },
   {
     "name": "USD Coin",
@@ -565,7 +565,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
   },
   {
     "name": "Tether USD",
@@ -573,7 +573,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
   },
   {
     "name": "Wrapped BTC",
@@ -581,7 +581,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
   },
   {
     "name": "Wrapped Ether",
@@ -589,7 +589,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
   },
   {
     "name": "Wrapped Matic",
@@ -597,7 +597,7 @@
     "symbol": "WMATIC",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
   },
   {
     "name": "Moonwolf",
@@ -629,7 +629,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xb8cb8a7F4C2885C03e57E973C74827909Fdc2032/logo.png"
   },
   {
     "name": "dHEDGE Top Index",
@@ -685,7 +685,7 @@
     "symbol": "wFIL",
     "decimals": 18,
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xEde1B77C0Ccc45BFa949636757cd2cA7eF30137F/logo.png"
   },
   {
     "name": "ARPA Token",
@@ -1045,7 +1045,7 @@
     "name": "SushiBar",
     "symbol": "xSUSHI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x6811079E3c63ED96Eb005384d7E7ec8810E3D521/logo.png"
   },
   {
     "address": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
