@@ -1,11 +1,11 @@
 [
   {
-    "name": "BNB",
+    "name": "BNB token",
     "symbol": "BNB",
     "address": "0x0000000000000000000000000000000000000000",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.jpg"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
   },
   {
     "name": "Bakery Token",
@@ -21,7 +21,7 @@
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.jpg"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4687.png"
   },
   {
     "name": "Ethereum Token",
@@ -29,7 +29,7 @@
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.jpg"
+    "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
   },
   {
     "name": "BTCB Token",
@@ -45,7 +45,7 @@
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x55d398326f99059fF775485246999027B3197955.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
   },
   {
     "name": "Cosmos Token",
@@ -61,7 +61,7 @@
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
     "chainId": 56,
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/binance/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
   },
 
   {
