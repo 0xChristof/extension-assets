@@ -4,7 +4,7 @@
     "chainId": 1,
     "symbol": "ETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/ethereum.png",
+    "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
     "address": "0x0000000000000000000000000000000000000000"
   },
   {
@@ -366,14 +366,6 @@
     "symbol": "BTM",
     "decimals": 8,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btm.jpg"
-  },
-  {
-    "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
-    "chainId": 1,
-    "name": "Binance USD",
-    "symbol": "BUSD",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
   },
   {
     "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
