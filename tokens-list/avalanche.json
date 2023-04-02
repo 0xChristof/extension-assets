@@ -1,6 +1,14 @@
 [
   {
     "chainId": 43114,
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "name": "Avalanche token",
+    "symbol": "AVAX",
+    "logoURI": "https://pbs.twimg.com/profile_images/1605605053901021184/9LNylZAA_400x400.png"
+  },
+  {
+    "chainId": 43114,
     "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
     "decimals": 18,
     "name": "Wrapped AVAX",
@@ -85,7 +93,7 @@
     "decimals": 6,
     "name": "USD Coin",
     "symbol": "USDC",
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/avalanche/assets/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664/logo.png"
   },
   {
     "chainId": 43114,
@@ -133,7 +141,7 @@
     "name": "MoonRiver",
     "symbol": "MOVR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/avalanche/assets/0xF873633DF9D5cDd62BB1f402499CC470a72A02D7/logo.png"
   },
   {
     "address": "0xA56B1b9f4e5A1A1e0868F5Fd4352ce7CdF0C2A4F",
@@ -141,7 +149,7 @@
     "name": "Matic",
     "symbol": "MATIC",
     "decimals": 19,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/matic.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/avalanche/assets/0xA56B1b9f4e5A1A1e0868F5Fd4352ce7CdF0C2A4F/logo.png"
   },
   {
     "address": "0xCDEB5641dC5BF05845317B00643A713CCC3b22e6",
@@ -149,7 +157,7 @@
     "name": "Huobi",
     "symbol": "HT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ht.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/avalanche/assets/0xCDEB5641dC5BF05845317B00643A713CCC3b22e6/logo.png"
   },
   {
     "address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
@@ -213,7 +221,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/avalanche/assets/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
   },
   {
     "address": "0x214DB107654fF987AD859F34125307783fC8e387",
@@ -221,7 +229,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/avalanche/assets/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
   },
   {
     "address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",

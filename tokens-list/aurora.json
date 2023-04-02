@@ -1,5 +1,12 @@
 [
   {
+    "name": "Aurora Token",
+    "symbol": "AURORA",
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/14803.png"
+  },
+  {
     "chainId": 1313161554,
     "address": "0x4e834cdcc911605227eedddb89fad336ab9dc00a",
     "symbol": "AAVE",

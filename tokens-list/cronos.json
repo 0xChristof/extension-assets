@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cronos Token",
+    "symbol": "CRO",
+    "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 25,
+    "decimals": 18,
+    "logoURI": "https://www.bcbitcoin.com/site/assets/files/39189/image.png"
+  },
+  {
     "name": "Crona Token",
     "symbol": "CRONA",
     "address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
